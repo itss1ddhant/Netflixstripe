@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+A Complet NETFLIX Clone integrated with Stripe Payment Checkout Facility, React Hooks, Firebase, Firestore. Altogether an amazing build. Do click the link on the right hand side and enjoy.
+
 ## Available Scripts
 
 In the project directory, you can run:
